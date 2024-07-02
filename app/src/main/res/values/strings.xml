@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Work-Manager-Api</string>
+    <string name="request_location_updates">Request Location Updates</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text_stop">Stop</string>
+    <string name="message_worker_running">Location is going on...</string>
+    <string name="message_worker_stopped">Location is stopped</string>
+    <string name="log_for_running">Location Update </string>
+    <string name="log_for_stopped">Click on Start</string>
+    <string name="button_text_start">Location</string>
+</resources>
